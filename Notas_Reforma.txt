@@ -1,4 +1,3 @@
-  
 URL:
   https://www.reforma.com/libre/online07/aplicacionEI/webview/iWebView.aspx?Coleccion=1066&folio=[Folio]&TipoTrans=8
 
@@ -12,7 +11,8 @@ Identificador de todas las notas
 
 Entre menor es el Folio se avanza a la siguiente página y a la fecha anterior.
 El Folio aumenta cada día: 16/07/2020 el último id es: 2168542
-Se infiere que el Folio 2168543 será la primera notas del 17/07/2020
+Se infiere que el Folio 2168543 será la primera nota del 17/07/2020 
+    Actualización: El Folio 2168543 sí corresponde a la primera nota del 17/07/2020 el último fólio ahora es el 2168754 aproximadamente 211 notas por día
 El Folio más bajo con Coleccion=1060 es: 180985
 
 ----------TipoTrans--------------
